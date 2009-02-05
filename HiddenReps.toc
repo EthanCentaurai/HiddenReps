@@ -1,0 +1,7 @@
+## Interface: 30000
+## Title: Hidden Reputations
+## Notes: Exposes hidden reputation meters in the reputation tab, such as |cffffff9aAlliance|r/|cffffff9aHorde|r or |cffffff9aSteamwheedle Cartel|r.
+## Version: 0.1
+## Author: Snoring Minotaur
+
+HiddenReps.lua

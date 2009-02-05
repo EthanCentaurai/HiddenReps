@@ -1,0 +1,62 @@
+Hidden Reputations
+==================
+
+Exposes hidden reputation meters in the reputation tab, such as
+Alliance/Horde or Steamwheedle Cartel.
+
+
+Description
+===========
+
+This addon exposes hidden reputation meters in the reputation tab in World
+of Warcraft. The following factions are known to have hidden reputations:
+
+Classic:
+ * Alliance (for Alliance players)
+ * Horde (for Horde players)
+ * Steamwheedle Cartel
+
+The Burning Crusade:
+ * Shattrath City
+
+Wrath of the Lich King:
+ * Sholazar Basin
+
+Similarly to Alliance Vanguard and Horde Expedition, these factions gain a
+portion of the reputation gained by their sub-factions.
+
+These reputations have no known purpose in the game.
+
+
+Configuration
+=============
+
+There are no configuration options.
+
+
+Known issues
+============
+
+ * Due to quirks of the API, these reputations are only displayed if their
+   value is non-zero. This should be of little practical significance.
+
+ * The reputation bars are too long. This is a bug in the client, which is
+   also visible with Alliance Vanguard and Horde Expedition.
+
+
+Copyright and licensing
+=======================
+
+Copyright (c) 2009 Snoring Minotaur
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
